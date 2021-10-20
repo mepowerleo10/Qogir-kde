@@ -11,7 +11,7 @@ toolbar_item_spacing=1
 toolbar_interior_spacing=3
 spread_progressbar=true
 composite=true
-menu_shadow_depth=2
+menu_shadow_depth=6
 menu_separator_height=6
 tooltip_shadow_depth=6
 splitter_width=4
@@ -472,15 +472,15 @@ indicator.element=carrow
 [Menu]
 inherits=PanelButtonCommand
 frame=true
-frame.top=8
-frame.bottom=8
-frame.left=8
-frame.right=8
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 frame.element=menu
 interior.element=menu
 text.normal.color=#e0e5ebc0
 text.shadow=false
-frame.expansion=4
+frame.expansion=2.8font
 
 [GroupBox]
 inherits=GenericFrame
