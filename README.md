@@ -1,4 +1,4 @@
-<img src="https://github.com/vinceliuice/Qogir-kde/blob/master/images/logo.png" alt="Logo" align="right" /> Qogir KDE Theme
+<img src="https://github.com/vinceliuice/Qogir-kde/blob/master/images/logo.png" alt="Logo" align="right" /> Qogir KDE Theme - ReImagined
 ======
 
 Qogir kde is a flat Design theme for KDE Plasma desktop.
